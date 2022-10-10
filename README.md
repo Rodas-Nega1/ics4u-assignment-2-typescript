@@ -1,1 +1,1 @@
-# ics4u-assignment-2-typescript-
+# ics4u-assignment-2-typescript
